@@ -1,11 +1,9 @@
 # java-WebSpringJPAannotationsHibernateHSQL
 Aplicacion Web con anotaciones de Hibernate y Spring, y base de datos HSQL.
-Usa JPA:
-Click Derecho->Properties->Project Facets
-Dynamic web modules 3.1
-Java				1.8
-JavaScript			1.0
-JPA					2.1
+
+En el proyecto->Click Derecho->Properties->Java Builth Path->Source->Edit...
+La carpeta de fuentes de codigo java debe llamarse src/main/java en vez de src
+
 Usa Maven: 
 Configurar como proyecto Maven:
 Click Derecho->Configure->Convert to Maven Project
