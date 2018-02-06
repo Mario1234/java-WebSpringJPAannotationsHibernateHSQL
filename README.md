@@ -13,3 +13,5 @@ Para Probarlo:
 Click Derecho->Run As->Run Configurations...->Maven build
 Goals = tomcat7:run
 y click en RUN
+
+navegador web ir a http://localhost:8080/
