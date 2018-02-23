@@ -1,4 +1,5 @@
 # java-WebSpringJPAannotationsHibernateHSQL
+Antes de realizar este ejercicio realizar el ejercicio java-SpringJPAannotationsHibernateHSQL.
 Aplicacion Web con anotaciones de Hibernate y Spring, y base de datos HSQL.
 
 En el proyecto->Click Derecho->Properties->Java Builth Path->Source->Edit...
